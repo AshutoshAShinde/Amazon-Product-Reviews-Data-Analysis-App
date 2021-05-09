@@ -1,8 +1,8 @@
 # Amazon Product Reviews Data Analysis App
 
-YouTube Link:https://www.youtube.com/watch?v=Xg5fW3qIEtQ&t=210s
+YouTube Link : https://www.youtube.com/watch?v=Xg5fW3qIEtQ&t=210s
 
-App Link: https://share.streamlit.io/ashutoshashinde/amazon-product-reviews-data-analysis-app/main/Amazon_Product_Review_Data_Analysis_App.py
+App Link : https://share.streamlit.io/ashutoshashinde/amazon-product-reviews-data-analysis-app/main/Amazon_Product_Review_Data_Analysis_App.py
 
 ![Screenshot](amazon_app.PNG)
 
